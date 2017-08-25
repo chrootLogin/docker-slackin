@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 if [ "${SLACK_CHANEL}" == "changeme" ]; then
   echo "Please set SLACK_CHANNEL env variable."
